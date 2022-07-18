@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava.introducao;
 
 /**
- * Isso é um comentário javadoc
+ * Isso é um comentário <b>javadoc</b>
  *
  */
 
